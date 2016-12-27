@@ -2,7 +2,7 @@
 
 This is utility code for parsing XML and HTML using libXML2’s SAX parser.
 
-It builds two framework targets: one for Mac, one for iOS. It does not depend on any other third-party frameworks.
+It builds two framework targets: one for Mac, one for iOS. It does not depend on any other third-party frameworks. The code is Objective-C with ARC.
 
 #### The gist
 
